@@ -7,4 +7,13 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="ThreadPoolDemo\" />
+    <Folder Include="BackgroundWorkerDemo\" />
+    <Folder Include="AsynchronousDemo\" />
+    <Folder Include="ThreadDemo\" />
+    <Folder Include="TimerDemo\" />
+    <Folder Include="ParallelProgrammingDemo\" />
+  </ItemGroup>
+
 </Project>

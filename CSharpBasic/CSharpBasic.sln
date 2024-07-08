@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34902.65
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpBasic", "CSharpBasic\CSharpBasic.csproj", "{B323EECD-D307-4FFB-9FBB-7E694E799B45}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharpBasic", "CSharpBasic\CSharpBasic.csproj", "{B323EECD-D307-4FFB-9FBB-7E694E799B45}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultThread", "MultThread\MultThread.csproj", "{1070D5E6-1988-4EA5-A00A-92B94D9C4BE2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultThread", "MultThread\MultThread.csproj", "{1070D5E6-1988-4EA5-A00A-92B94D9C4BE2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
